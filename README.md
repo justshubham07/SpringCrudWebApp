@@ -9,7 +9,7 @@ Delete Employee
 
 ## Technologies used
 
-SpringBoot, MySQl, Spring Data JPa, Thymeleaf
+SpringBoot, MySQl, Spring Data JPA, Thymeleaf
 
 ## Usage
 
